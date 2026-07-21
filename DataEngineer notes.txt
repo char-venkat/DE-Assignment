@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------------------------
+What is SDLC ?
+-->SDLC it is --> SOftware developyment lifecycle.
+--> It is a step-by-step process to develop a software in a planned.
+-->SDLC is a process used to plan,design,develop,test,deploy and maintains a software application.
+
+what is Agile ? 
+--> They team will work as a paraller in every phase.
+--> Collabration (team + customer loop )
+
+Also Explain why we prefer Agile over Waterfall:
+--> In Waterfall model, the team will work in phases. Once one phase is completed, then only they will move to the next phase in the Waterfall model, and the output result will be delivered at the last. But in Agile model, they will work in parallel in every phase, and the output result will come in parallel. So only they are using the Agile model in every company.
+
+Important components of JIRA :
+--> JIRA it is a project management tool.
+--> Developed by atlassion.
+--> it is help to teams, planning, track and manage.
+--> EPIC ---> IT is a project (big Goal)
+--> USER STORY --> Feature from the ustomer end user.(user requiment)
+--> TASK --> specific pice of work that need to complete to delivery a user stoy(actua work to be completed).
+
+What is CI/CD?
+CI --> Continuous Integration
+--> Continuous Integration when the developer a developes a code freqyenty merge a code into  git hub repository.
+CD--> Continous Delivery/deployment
+--> continous delivery -> After CI is successful, the application is automatically prepared for deployment.
+--> Continous Deployment -> Continuous Deployment goes one step further.(Eg: Developer → GitHub → Jenkins → Build → Test → Production)
+
+What is Git and GitHub?
+Git --> It is a Version Control --> it installed in a local Computer.
+GitHub --> It is a Cloud plateform we can access through a web.
+
+What is Jenkins?
+--> It is a Deployment tolls to automate the code
+--> it is a open source automation server used to automatic the developement process.
+--> It is a part of CI.
